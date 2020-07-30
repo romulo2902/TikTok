@@ -12,5 +12,4 @@ export const Button = styled.View`
   border-right-color:#e6436e;
   border-right-width:5px;
   border-left-width:5px;
-
 `;
